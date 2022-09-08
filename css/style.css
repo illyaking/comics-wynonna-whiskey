@@ -1,5 +1,10 @@
 body {
-background : #ffffff;
+     background-color: #ffffff;
+     background-image: url("/files/wynonnaBG.jpg");
+     background-position: left top;
+     background-size: auto;
+     background-repeat: repeat;
+     background-attachment: scroll;
 }
 #masthead {
 background : url(/files/uploads/sites/5/2022/07/triana-nana-VWyiLOKgsgM-unsplash-scaled.jpg);
